@@ -12,7 +12,7 @@ def get_requirements(path:str)->List[str]:
     return requirement_list
 
 setup(name='mle2e',
-      version='0.0.2',
+      version='0.0.7',
       author='Kartik',
       author_email='kartikgawandeonline@gmail.com',
       packages=find_packages(),
